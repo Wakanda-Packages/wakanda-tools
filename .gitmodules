@@ -1,3 +1,6 @@
 [submodule "puppet-wakanda_solution"]
 	path = puppet-wakanda_solution
 	url = https://github.com/andrewshawcare/puppet-wakanda_solution
+[submodule "debian-wakanda"]
+	path = debian-wakanda
+	url = https://github.com/andrewshawcare/debian-wakanda
