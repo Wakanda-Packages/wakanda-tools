@@ -4,3 +4,6 @@
 [submodule "debian-wakanda"]
 	path = debian-wakanda
 	url = https://github.com/andrewshawcare/debian-wakanda
+[submodule "vagrant-wakanda"]
+	path = vagrant-wakanda
+	url = https://github.com/andrewshawcare/vagrant-wakanda
